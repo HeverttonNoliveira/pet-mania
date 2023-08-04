@@ -1,0 +1,42 @@
+.conteiner-1{
+    display: flex;
+    text-align: center;
+    padding-left: 2em;
+    padding-top: 2em;
+    padding-right: 2em;
+    background-color: aquamarine;
+}
+.conteiner-2{
+    display: flex;
+    padding: 3em;
+}
+
+#mno{
+    margin-top: 7em;
+    margin-right:3em;
+}
+
+#mnoe{
+    margin-left: 3em;
+    margin-top: 3em;
+}
+
+.bnhtosa{
+color: blue;
+}
+
+.servicos-oferecidos{
+    margin-left: 10em;
+    margin-right: 10em;
+    margin-bottom: 2em;
+}
+.so-h2{
+    padding-bottom: 1em;
+    color: blue;
+}
+
+
+
+figure{
+    display: inline;
+}

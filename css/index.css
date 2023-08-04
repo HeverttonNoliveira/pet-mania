@@ -1,0 +1,53 @@
+main{
+    background-color: bique;
+}
+
+
+.carousel-inner{
+    margin-bottom:1% ;
+}
+
+.categoria{
+    display: inline;
+    margin-left: 23%;
+}
+
+.card{
+    box-shadow:  1px 1px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.card:hover{
+    background-color: rgb(207, 241, 229);
+}
+.conteudo{
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    padding-bottom: 2em;
+
+}
+
+.prt-recomendados{
+    display: flex;
+}
+
+.h1-home{
+    padding-bottom: 1em;
+}
+
+.h1-marca{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+
+
+
+footer{
+    padding-left: 1em;
+    padding-right: 1em;
+    padding: 1em; 
+    background-color: rgb(213, 250, 238);
+}
+
+
